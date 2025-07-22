@@ -1,7 +1,7 @@
 local M = {}
 
 M.spec = {
-  url = "https://github.com/catppuccin/nvim",
+  url = "https://github.com/thomasbellio/catppuccin-nvim",
   name = "catppuccin"
 }
 
