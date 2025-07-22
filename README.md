@@ -5,6 +5,8 @@ This is the configuration setup for my neovim setup.
 The purpose of this setup is to enable rapid iteration on software projects that may be from different domains and contexts. 
 
 
+To add a plugin you can follow instructions laid out in [plugins.md](./plugins.md)
+
 ## Why Not Use LazyVim?
 
 There are several plugin managers for neovim and one of the more popular ones is called [LazyVim](https://www.lazyvim.org/).
